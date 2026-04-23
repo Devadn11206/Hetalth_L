@@ -1,0 +1,8 @@
+{
+  "name": "Rural AI Health Assistant",
+  "description": "An AI-powered health assistant for rural areas, supporting English and Telugu, providing triage, nutrition, and lifestyle advice.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
